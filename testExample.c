@@ -1,7 +1,10 @@
+// gcc testExample.c libft.a
+
+
 #include <string.h>
 #include <stdio.h>
 
-#include "libft/libft.h"
+#include "libft.h"
 
 int main()
 {
